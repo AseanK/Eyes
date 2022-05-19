@@ -1,0 +1,1 @@
+In this project, I created eyes using CSS and made it follow the mouse curser. I was able to complete this project using .onmousemove function. I worked on one eye first and simply duplicated another to make it a pair.
