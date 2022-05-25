@@ -8,4 +8,6 @@ To run this program, you'll have to load the index.html files on your browser. T
 I'd like to add a start button and buttons to change the style of the eyes, for example, make it look like cat's eyes or octopus's eyes, change the color, etc.
 
 ## License
-MIT Professinal Certificate in Coding: Full Stack Development with MERN
+MIT Professinal Certificate in Coding: Full Stack Development with MERN (2022)
+
+<sub>online course</sub>
