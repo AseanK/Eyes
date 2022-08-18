@@ -3,6 +3,7 @@ In this project, I created eyes using CSS and made it follow the mouse curser. I
 
 ## how to run
 To run this program, you'll have to load the index.html files on your browser. Then, move your mouse cursor and see the eyes following your cursor.
+or https://aseank.github.io/Eyes/
 
 ## Things to improve in the future
 I'd like to add a start button and buttons to change the style of the eyes, for example, make it look like cat's eyes or octopus's eyes, change the color, etc.
